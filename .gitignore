@@ -1,0 +1,18 @@
+# Virtual environments
+env/
+venv/
+
+
+# Environment variables
+.env
+backend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+.vscode
+
+template.py
+
+# Dataset
+*.csv
